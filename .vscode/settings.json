@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "cSpell.ignoreWords": [
+        "bgcolor",
+        "moveup",
+        "myapp",
+        "onkey",
+        "penup",
+        "print",
+        "setx",
+        "sety",
+        "xcor",
+        "ycor"
+    ]
+}
